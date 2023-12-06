@@ -1,0 +1,6 @@
+[submodule "m3_diuv_docs"]
+	path = m3_diuv_docs
+	url = https://github.com/Metaraddin/m3_diuv_docs
+[submodule "m3_diuv_article"]
+	path = m3_diuv_article
+	url = https://github.com/Metaraddin/m3_diuv_article
